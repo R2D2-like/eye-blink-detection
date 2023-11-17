@@ -1,7 +1,7 @@
 # define two constants, one for the eye aspect ratio to indicate
 # blink and then a second constant for the number of consecutive
 # frames the eye must be below the threshold
-EYE_AR_THRESH = 0.23 #baseline
+EYE_AR_THRESH = 0.3 #baseline
 EYE_AR_CONSEC_FRAMES = 3
 
 # eye landmarks
